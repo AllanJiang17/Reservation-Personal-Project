@@ -1,0 +1,116 @@
+{"dogs": [
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "testCase1",
+        "weight": 80,
+        "reservation": 11,
+        "food": "Carrot"
+    },
+    {
+        "name": "testCase2",
+        "weight": 20,
+        "reservation": 12,
+        "food": "Apple"
+    },
+    {
+        "name": "testCase3",
+        "weight": 20,
+        "reservation": 13,
+        "food": "Apple"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "allan",
+        "weight": 20,
+        "reservation": 15,
+        "food": "apple"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "timmy",
+        "weight": 33,
+        "reservation": 17,
+        "food": "apple"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    }
+]}

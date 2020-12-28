@@ -1,0 +1,116 @@
+{"dogs": [
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "Apple",
+        "weight": 10,
+        "reservation": 10,
+        "food": "carrot"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    },
+    {
+        "name": "empty",
+        "weight": 0,
+        "reservation": 0,
+        "food": "empty"
+    }
+]}
