@@ -1,4 +1,4 @@
-# **Doggy Daycare Application**
+# **Reservation Application**
 
 ## Project proposal for an appointment changing application that also gives feedback to owners about their dogs.
 
